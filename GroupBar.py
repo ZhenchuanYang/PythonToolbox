@@ -1,3 +1,4 @@
+# Reference: https://matplotlib.org/stable/gallery/lines_bars_and_markers/barchart.html#sphx-glr-gallery-lines-bars-and-markers-barchart-py
 def health_bar(home_xx,target_df_2,region):
     '''绘制柱状图的函数'''
     # 導入包
